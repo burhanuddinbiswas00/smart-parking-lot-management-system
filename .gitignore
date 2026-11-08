@@ -1,0 +1,17 @@
+# Compiled Java class files
+*.class
+out/
+bin/
+
+# Runtime generated data and reports
+data/*.dat
+data/reports/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
